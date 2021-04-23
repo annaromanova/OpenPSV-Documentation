@@ -1,2 +1,2 @@
-# OpenPSV-Documentation
+Project name: OpenPSV
 
